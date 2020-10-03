@@ -1,5 +1,5 @@
 # Anti-IP License
-The license that will prevent IP infringement lawsuits and maximize the IP rights of the public.
+Draft version:  The license that will prevent IP infringement lawsuits and maximize the IP rights of the public.
 
 
 Copyright `<YEAR> <COPYRIGHT HOLDER>`

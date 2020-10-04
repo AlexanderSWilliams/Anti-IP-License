@@ -15,7 +15,7 @@ Each owner licenses you to do everything with any intellectual property they can
 
 **Copyleft**
 
-If you own a derivative work of any intellectual property granted to you by this license that would otherwise infringe on intellectual property rights, then you may only license that derivative work under this license.
+If you own a derivative work of any intellectual property granted to you by this license that would otherwise infringe on intellectual property rights, then you may only license that derivative work under this license.  If the such a derivative work is publicly distributed, performed, displayed, or transmitted, then you must either assign the work to the owners of the included intellectual property or grant the public rights to the work under this license.
 
 **Notices**
 
@@ -23,7 +23,7 @@ You must ensure that everyone who gets a copy of any part of intellectual proper
 
 **Excuse**
 
-If anyone notifies you in writing that you have not complied with Notices, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.
+If anyone notifies you in writing that you have not complied with Notices or the Copyleft conditions, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.
 
 **No Fraud**
 

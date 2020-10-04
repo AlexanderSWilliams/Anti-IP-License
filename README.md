@@ -27,7 +27,7 @@ If anyone notifies you in writing that you have not complied with Notices, you c
 
 **No Fraud**
 
-If you are found guilty of committing fraud using any of the licensed intellectual property in a court of law, then your license ends immediately.
+If you are found guilty of committing fraud using any of the intellectual property granted to you by this license in a court of law, then your license ends immediately.
 
 **Reliability**
 

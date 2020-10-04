@@ -1,55 +1,38 @@
 # Anti-IP License
-Draft version:  The license that will prevent IP infringement lawsuits and maximize the IP rights of the public.
+**Draft version**:  The license will maximize the IP rights of the public.
 
+**Purpose**
 
-Copyright `<YEAR> <COPYRIGHT HOLDER>`
+With this license, the owners of the included intellectual property give everyone as much permission to work with all of the owners' intellectual property as possible, while protecting the owners from liability and fraud.
 
-**Statement of Purpose**
+**Acceptance**
 
-Without legally recognized IP rights, individuals would be free to privately and publicly author, translate, adapt, arrange, perform, recite, communicate, broadcast, reproduce, distribute, use, sell, offer to sell, export, import, and have made creative works for any purpose with or without a fee.  This License seeks to establish a community that freely grants all licensable rights that they possess without implying any obligations such as liability, warranty, or making works publically available.
+In order to receive this license, you must agree to its rules. The rules of this license are both obligations under that agreement and conditions to your license. You must not do anything with the licensed intellectual property that triggers a rule that you cannot or will not follow.
 
-**Definitions**
+**Grant**
 
-“This License” means this document.
+Each owner licenses you to do everything with any intellectual property they can or will be able to license that would otherwise infringe that owner's intellectual property rights in it.
 
-“IP law” means all laws designed to protect non-physical property including copyright, patent, anti-circumvention, design rights, trademarks, trade secrets, trade dress, and any law with similar intent.
+**Copyleft**
 
-"IP" means any property protected by IP law.
+If you own a derivative work of any intellectual property granted to you by this license that would otherwise infringe on intellectual property rights, then you may only license that derivative work under this license.
 
-"Original work" means the included IP licensed under this License.
+**Notices**
 
-“Derivative work” refers to any derivative work of the Original work.
+You must ensure that everyone who gets a copy of any part of intellectual property granted under this license from you, with or without changes, also gets the text of this license or a link to TBD.
 
-“Covered work” means the Original work or any Derivative work.
+**Excuse**
 
-"Control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity. 
-
-“Contributor” means each individual or legal entity that creates, contributes to the creation of, owns, or Controls Covered Work.
-    
-“You” (or “Your”) means an individual or a legal entity exercising rights under this License including any Contributor. For legal entities, “You” includes any entity that Controls, is Controlled by, or is under common Control with You. 
-    
-**Grants**
-
-Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license for all IP licensable by such Contributor.  All rights granted under this License are granted for the term of copyright on the Original work, and are irrevocable provided the stated conditions are met.
-
-## **Conditions**
+If anyone notifies you in writing that you have not complied with Notices, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.
 
 **No Fraud**
 
-No IP of any Contributor will be used fraudulently to imply endorsement or association without the prior consent of the Contributor.
+If you are found guilty of committing fraud using any of the licensed intellectual property in a court of law, then your license ends immediately.
 
-**Legal ownership and control**
+**Reliability**
 
-If You at any time are a Contributor of a Covered work, then You immediately grant all existing and future individuals and legal entities a world-wide, royalty-free, non-exclusive license for all IP that are and will be licensable by You.  All such rights are granted for the term of copyright on the Original work, and are irrevocable from each person and entity provided they meet the stated conditions of this License.
+No owner can revoke this license.
 
-**Transfer of IP ownership and control**
+**No Liability**
 
-Before the transfer of ownership or control of a Covered work, it is required to give sufficient notice of the conditions of this License to the individuals and entities that the ownership and/or control will be transferred to.
-
-**Enforceability and Severability**
-
-All Contributors to a Covered work agree that each of the provisions of this License is severable and distinct from every other provision.  If any provision of this License shall be invalid or unenforceable, in whole or in part, such provision shall be deemed to be modified or restricted to the extent and in the manner necessary to render the same valid and enforceable or shall be deemed excised from this License, as the case may require, and this License shall be construed and enforced to the maximum extent permitted by law as if such provision had been originally incorporated herein as so modified or restricted, or as if such provision had not been originally incorporated herein, as the case may be.
-
-**Disclaimer of Warranty and Liability**
-
-This License shall not be construed to imply any warranty or liability for any Contributor of a Covered work to the maximum extent permitted by applicable law.
+As far as the law allows, all of the licensed intellectual property that you possess comes as is, without any warranty or condition, and no owner will be liable to anyone for any damages related to this property or this license, under any kind of legal claim.

@@ -11,7 +11,7 @@ In order to receive this license, you must agree to its rules. The rules of this
 
 **Grant**
 
-Each owner licenses you to do everything with any intellectual property they can or will be able to license that would otherwise infringe that owner's intellectual property rights in it.
+Each owner licenses you to do everything with any intellectual property they can or will be able to license that would otherwise infringe that owner's intellectual property rights.
 
 **Copyleft**
 

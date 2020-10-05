@@ -15,7 +15,7 @@ Each owner licenses you to do everything with any intellectual property they can
 
 **Copyleft**
 
-If you own a derivative work of any intellectual property granted to you by this license that would otherwise infringe on intellectual property rights, then you may only license that derivative work under this license.  If the such a derivative work is publicly distributed, performed, displayed, or transmitted, then you must either assign the work to the owners of the included intellectual property or grant the public rights to the work under this license.
+If you own a derivative work of any intellectual property granted to you by this license that would otherwise infringe on intellectual property rights, then you may only license that derivative work under this license. If such a derivative work is publicly distributed, performed, displayed, or transmitted, then you must either assign the work to the owners of the included intellectual property or grant the public rights to the work under this license.
 
 **Notices**
 

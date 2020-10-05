@@ -35,4 +35,4 @@ No owner can revoke this license.
 
 **No Liability**
 
-As far as the law allows, all of the licensed intellectual property that you possess comes as is, without any warranty or condition, and no owner will be liable to anyone for any damages related to this property or this license, under any kind of legal claim.
+As far as the law allows, all of the licensed intellectual property is "as is", without any warranty or condition, and no owner will be liable to anyone for any damages related to this property or this license, under any kind of legal claim.

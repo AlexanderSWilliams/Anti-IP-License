@@ -2,37 +2,48 @@
 **Draft version**:  The license will maximize the IP rights of the public.
 
 **Purpose**
+With this License, the owners of the included IP grant everyone as much permission to work with all of the owners' IP as possible without imposing any legal obligations or excusing fraud.
 
-With this license, the owners of the included intellectual property give everyone as much permission to work with all of the owners' intellectual property as possible, while protecting the owners from liability and fraud.
+**Definitions**
+“License” means this document.
+
+“IP law” means all laws designed to protect non-physical property including copyright, patent, anti-circumvention, design rights, trademarks, trade secrets, trade dress, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, fair competition rights, and any law with similar intent that exists now or in the future.
+
+"IP" means any property protected by IP law.
+
+"Licensable IP" means all IP the owners of the included IP can or will be able to license that would otherwise infringe that owner's IP rights.  This includes all IP related and unrelated to the included IP.
+
+"Original work" means the included IP licensed under this License.
+
+“Derivative work” refers to any derivative work of the Original work that is also Licensable IP.
+
+“Covered work” means the Original work or any Derivative work.
+
+"Public Covered work" is any "Covered work" that was publicly distributed, performed, displayed, transmitted, or made available.
 
 **Acceptance**
-
-In order to receive this license, you must agree to its rules. The rules of this license are both obligations under that agreement and conditions to your license. You must not do anything with the licensed intellectual property that triggers a rule that you cannot or will not follow.
+In order to receive this license, you must agree to its rules. The rules of this license are both obligations under that agreement and conditions to your license. You must not do anything with the licensed IP that triggers a rule that you cannot or will not follow.
 
 **Grant**
-
-Each owner licenses you to do everything with any intellectual property they can or will be able to license that would otherwise infringe that owner's intellectual property rights.
+Each owner grants you a non-exclusive, royalty-free license to do everything with all their Licensable IP without restriction except for the requirements specified by this License.
 
 **Copyleft**
+Covered works may only be licensed under this License.
 
-If you own a derivative work of any intellectual property granted to you by this license that would otherwise infringe on intellectual property rights, then you may only license that derivative work under this license. If such a derivative work is publicly distributed, performed, displayed, transmitted, or made available then you must either assign the work to someone that has publicly licensed intellectual property under this license or grant everyone rights to the work under this license.
+**Public Covered Work**
+Public Covered Works may only be assigned to someone that has publicly licensed IP under this License.  If you own a Public Covered Work, you must either assign the work to someone that has publicly licensed IP under this License or grant everyone rights to the work under this License.
 
-**Notices**
-
-You must ensure that everyone who gets a copy of any part of intellectual property granted under this license from you, with or without changes, also gets the text of this license or a link to TBD.
+**Notice**
+You must ensure that everyone who gets a copy of any part of IP granted under this License from you, with or without changes, also gets the text of this License or a link to TBD.
 
 **Excuse**
-
-If anyone notifies you in writing that you have not complied with Notices or the Copyleft conditions, you can keep your license by complying within 30 days after the notice. If you do not do so, your license ends immediately.  Before you comply, you may not assign any relevant intellectual property to anyone that has not publicly licensed intellectual property under this license.
+If anyone notifies you in writing that you have not complied with Copyleft, Public Covered Work, or Notice conditions, you can keep your license by complying within 30 days after the notice.
 
 **No Fraud**
-
-If you are found guilty of committing fraud using any of the intellectual property granted to you by this license in a court of law, then your license ends immediately.
+If you are found guilty of committing fraud using any of the IP granted to you by this license in a court of law, then your license ends immediately.
 
 **Reliability**
+This license may not be revoked or canceled.
 
-No owner can revoke this license.
-
-**No Liability**
-
-As far as the law allows, the intellectual property granted to you by this license is "as is", without any warranty or condition, and no owner will be liable to anyone for any damages related to this property or this license, under any kind of legal claim.
+**Disclaimer**
+All IP granted under this License is "as-is".  You bear the risk of using it.  To the extent permitted by law, the owners disclaim all representations, guarantees, responsibilities, liabilities, and obligations that otherwise would or will exist.

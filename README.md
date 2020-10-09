@@ -45,7 +45,7 @@ You must ensure that everyone who gets a copy of any part of IP granted under th
 
 **Excuse**
 
-If anyone notifies you in writing that you have not complied with Copyleft, Public Covered Work, or Notice conditions, you can keep your license by complying within 30 days after the notice.
+If anyone notifies you in writing that you have not complied with Copyleft, Public Covered Work, or Notice conditions, you can keep your license by complying within 30 days after the notice. If you do not do so, your license ends immediately.
 
 **No Fraud**
 

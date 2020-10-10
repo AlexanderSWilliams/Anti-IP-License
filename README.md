@@ -15,9 +15,7 @@ With this License, the owners of the included IP grant everyone as much permissi
 
 "Licensable IP" means all IP the owners of the included IP can or will be able to license that would otherwise infringe that owner's IP rights.  This includes all IP related and unrelated to the included IP.
 
-"Original work" means the included IP licensed under this License.
-
-“Derivative work” refers to any derivative work of the Original work that is also Licensable IP.
+“Derivative work” refers to any derivative work of any Licensable IP that would otherwise infringe on an owner's IP rights.
 
 "Public Derivative work" is any "Derivative work" that was publicly distributed, performed, displayed, transmitted, or made available.
 

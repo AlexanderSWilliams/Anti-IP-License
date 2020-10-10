@@ -29,11 +29,11 @@ Each owner grants you a non-exclusive, royalty-free license to do everything wit
 
 **Copyleft**
 
-Derivative works may only be licensed under this License.
+Derivative works may only be licensed under this License.  Derivative works may only be assigned to someone that has publicly licensed IP under this License.
 
 **Public Derivative Work**
 
-Public Derivative Works may only be assigned to someone that has publicly licensed IP under this License.  If you own a Public Derivative Work, you must either assign the work to someone that has publicly licensed IP under this License or grant everyone rights to the work under this License.
+If you own a Public Derivative Work, you must either assign the work to someone that has publicly licensed IP under this License or grant everyone rights to the work under this License.
 
 **Notice**
 
@@ -53,4 +53,4 @@ This license may not be revoked or canceled.
 
 **Disclaimer**
 
-All IP granted under this License is "as-is".  You bear the risk of using it.  To the extent permitted by law, the owners disclaim all representations, guarantees, responsibilities, liabilities, and obligations that otherwise would or will exist.
+All IP granted under this License is "as-is".  You bear the risk of using it.  To the extent permitted by law, the owners disclaim all representations, warranties, guarantees, responsibilities, liabilities, and obligations that otherwise would or will exist.

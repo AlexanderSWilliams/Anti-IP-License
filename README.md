@@ -19,9 +19,7 @@ With this License, the owners of the included IP grant everyone as much permissi
 
 “Derivative work” refers to any derivative work of the Original work that is also Licensable IP.
 
-“Covered work” means the Original work or any Derivative work.
-
-"Public Covered work" is any "Covered work" that was publicly distributed, performed, displayed, transmitted, or made available.
+"Public Derivative work" is any "Derivative work" that was publicly distributed, performed, displayed, transmitted, or made available.
 
 **Acceptance**
 
@@ -33,11 +31,11 @@ Each owner grants you a non-exclusive, royalty-free license to do everything wit
 
 **Copyleft**
 
-Covered works may only be licensed under this License.
+Derivative works may only be licensed under this License.
 
-**Public Covered Work**
+**Public Derivative Work**
 
-Public Covered Works may only be assigned to someone that has publicly licensed IP under this License.  If you own a Public Covered Work, you must either assign the work to someone that has publicly licensed IP under this License or grant everyone rights to the work under this License.
+Public Derivative Works may only be assigned to someone that has publicly licensed IP under this License.  If you own a Public Derivative Work, you must either assign the work to someone that has publicly licensed IP under this License or grant everyone rights to the work under this License.
 
 **Notice**
 
@@ -45,7 +43,7 @@ You must ensure that everyone who gets a copy of any part of IP granted under th
 
 **Excuse**
 
-If anyone notifies you in writing that you have not complied with Copyleft, Public Covered Work, or Notice conditions, you can keep your license by complying within 30 days after the notice. If you do not do so, your license terminates immediately.
+If anyone notifies you in writing that you have not complied with Copyleft, Public Derivative Work, or Notice conditions, you can keep your license by complying within 30 days after the notice. If you do not do so, your license terminates immediately.
 
 **No Fraud**
 

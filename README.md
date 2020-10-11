@@ -11,9 +11,9 @@ The group of people that choose to license their rights under this license shoul
 
 "Licensable IP" means all IP the owners of the included IP can or will be able to license that would otherwise infringe that owner's IP rights.  This includes all IP related and unrelated to the included IP.
 
-“Protected derivative work” refers to any derivative work of any Licensable IP that would otherwise infringe on an owner's IP rights.
+“Restricted work” refers to any derivative work of any Licensable IP that would otherwise infringe on an owner's IP rights.
 
-"Public protected derivative work" is any "Protected derivative work" that was publicly distributed, communicated, performed, displayed, transmitted, or made available.
+"Public Restricted work" is any "Restricted work" that was publicly distributed, communicated, performed, displayed, transmitted, or made available.
 
 **Acceptance**
 
@@ -25,11 +25,11 @@ Each owner grants you a non-exclusive, royalty-free license to do everything wit
 
 **Copyleft**
 
-Protected derivative works may only be licensed under this document.  Protected derivative works may only be assigned to someone that has publicly licensed IP under this document.
+Restricted works may only be licensed under this document.  Restricted works may only be assigned to someone that has publicly licensed IP under this document.
 
-**Public protected derivative work**
+**Public Restricted work**
 
-If you own a Public protected derivative work, you must either assign the work to someone that has publicly licensed IP under this document or grant everyone rights to the work under this document.
+If you own a Public Restricted work, you must either assign the work to someone that has publicly licensed IP under this document or grant everyone rights to the work under this document.
 
 **Notice**
 
@@ -41,7 +41,7 @@ If anyone notifies you in writing that you have not complied with the requiremen
 
 **No Fraud**
 
-No Licensable IP or Protected derivative work may be used to commit fraud. If you are found guilty of committing fraud using any of the Licensable IP or a Protected derivative work in a court of law, then your license ends immediately.
+No Licensable IP or Restricted work may be used to commit fraud. If you are found guilty of committing fraud using any of the Licensable IP or a Restricted work in a court of law, then your license ends immediately.
 
 **Reliability**
 

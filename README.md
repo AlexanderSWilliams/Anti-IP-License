@@ -3,7 +3,7 @@
 
 **Purpose**
 
-The group of people that choose to license their rights under this license should expect that no one in the group will sue them for intellectual property infringement and that any such lawsuit will be dismissed.
+The community of people that choose to license their rights under this license should expect that no one in the community will sue them for intellectual property infringement and that any such lawsuit will be dismissed.
 
 **Definitions**
 

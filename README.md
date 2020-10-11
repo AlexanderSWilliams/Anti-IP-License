@@ -1,23 +1,19 @@
 # Anti-IP License
-**Draft version**:  The license will maximize the IP rights of the public.
+**Draft version**:  The license will maximize the intellectual property rights of the public.
 
 **Purpose**
 
-With this License, the owners of the included IP grant everyone as much permission to work with all of the owners' IP as possible without imposing any legal obligations or excusing fraud.
+The group of people that choose to license their rights under this license should expect that no one in the group will sue them for intellectual property infringement and that any such lawsuit will be dismissed.
 
 **Definitions**
 
-“License” means this document.
-
-“IP law” means all laws designed to protect non-physical property including copyright, patent, anti-circumvention, design rights, trademarks, trade secrets, trade dress, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, fair competition rights, and any law with similar intent that exists now or in the future.
-
-"IP" means any property protected by IP law.
+"IP" refers broadly to all rights in the scope of intellectual property that are and will be recognized by the World Intellectual Property Organization and all courts of law that recognize intellectual property.  These rights include but are not limited to copyright, patent, anti-circumvention, design rights, trademarks, trade secrets, trade dress, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, fair competition rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
 
 "Licensable IP" means all IP the owners of the included IP can or will be able to license that would otherwise infringe that owner's IP rights.  This includes all IP related and unrelated to the included IP.
 
-“Derivative work” refers to any derivative work of any Licensable IP that would otherwise infringe on an owner's IP rights.
+“Protected derivative work” refers to any derivative work of any Licensable IP that would otherwise infringe on an owner's IP rights.
 
-"Public Derivative work" is any "Derivative work" that was publicly distributed, performed, displayed, transmitted, or made available.
+"Public protected derivative work" is any "Protected derivative work" that was publicly distributed, communicated, performed, displayed, transmitted, or made available.
 
 **Acceptance**
 
@@ -25,27 +21,27 @@ In order to receive this license, you must agree to its rules. The rules of this
 
 **Grant**
 
-Each owner grants you a non-exclusive, royalty-free license to do everything with all their Licensable IP without restriction except for the requirements specified by this License.
+Each owner grants you a non-exclusive, royalty-free license to do everything with all their Licensable IP without restriction except for the requirements specified by this document.
 
 **Copyleft**
 
-Derivative works may only be licensed under this License.  Derivative works may only be assigned to someone that has publicly licensed IP under this License.
+Protected derivative works may only be licensed under this document.  Protected derivative works may only be assigned to someone that has publicly licensed IP under this document.
 
-**Public Derivative Work**
+**Public protected derivative work**
 
-If you own a Public Derivative Work, you must either assign the work to someone that has publicly licensed IP under this License or grant everyone rights to the work under this License.
+If you own a Public protected derivative work, you must either assign the work to someone that has publicly licensed IP under this document or grant everyone rights to the work under this document.
 
 **Notice**
 
-You must ensure that everyone who gets a copy of any part of IP granted under this License from you, with or without changes, also gets the text of this License or a link to TBD.
+You must ensure that everyone who gets a copy of any part of IP granted under this document from you, with or without changes, also gets the text of this document or a link to TBD.
 
 **Excuse**
 
-If anyone notifies you in writing that you have not complied with Copyleft, Public Derivative Work, or Notice conditions, you can keep your license by complying within 30 days after the notice. If you do not do so, your license terminates immediately.
+If anyone notifies you in writing that you have not complied with the requirements and restrictions specified by this document, you can keep your license by complying within 30 days after the notice. If you do not do so, your license terminates immediately.
 
 **No Fraud**
 
-If you are found guilty of committing fraud using any of the IP granted to you by this license in a court of law, then your license ends immediately.
+No Licensable IP or Protected derivative work may be used to commit fraud. If you are found guilty of committing fraud using any of the Licensable IP or a Protected derivative work in a court of law, then your license ends immediately.
 
 **Reliability**
 
@@ -53,4 +49,4 @@ This license may not be revoked or canceled.
 
 **Disclaimer**
 
-All IP granted under this License is "as-is".  You bear the risk of using it.  To the extent permitted by law, the owners disclaim all representations, warranties, guarantees, responsibilities, liabilities, and obligations that otherwise would or will exist.
+All IP granted under this license is "as-is".  You bear the risk of using it.  To the extent permitted by law, the owners disclaim all representations, warranties, guarantees, responsibilities, liabilities, and obligations that otherwise would or will exist.

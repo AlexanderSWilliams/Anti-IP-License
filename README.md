@@ -9,7 +9,7 @@ The community of people that choose to license their rights under this license s
 
 "IP" refers broadly to all rights in the scope of intellectual property that are and will be recognized by the World Intellectual Property Organization and all courts of law that recognize intellectual property.  These rights include but are not limited to copyright, patent, anti-circumvention, design rights, trademarks, trade secrets, trade dress, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, fair competition rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
 
-"Licensable IP" means all IP the owners of the included IP can or will be able to license that would otherwise infringe that owner's IP rights.  This includes all IP related and unrelated to the included IP.
+"Licensable IP" means all IP the owners of the included work can or will be able to license that would otherwise infringe that owner's IP rights.  This includes all IP related and unrelated to the included work.
 
 “Restricted work” refers to any derivative work of any Licensable IP that would otherwise infringe on an owner's IP rights.
 

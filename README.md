@@ -61,7 +61,7 @@ All objects the Licensors have or will make Publicly available are "as-is" and "
 
 **Interpretation**
 
-For the avoidance of doubt, this license does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of any object that could lawfully be used without permission under this license.
+This license does not, and shall not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed without permission under this license in each respective jurisdiction.
 
 To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
 

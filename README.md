@@ -65,6 +65,6 @@ This license does not, and shall not be interpreted to, limit any action that co
 
 To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
 
-This license is not severable.  If in a given jurisdiction, this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.
+This license is not severable.  If in a given jurisdiction this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.
 
 To the maximum extent permitted by law in each respective jurisdiction, this license shall be interpreted as a bilateral contract between each pair of licensors and licensees.  As more people choose to license their rights under this document, the reciprocal nature of the document establishes significant benefits for those that comply with the license's requirements and limitations, and it establishes significant detriments for those that do not comply.

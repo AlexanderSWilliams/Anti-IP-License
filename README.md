@@ -53,7 +53,7 @@ You must ensure that everyone who gets a copy of any part of any Restricted obje
 
 **Excuse**
 
-If anyone notifies You in writing that You have not complied with the requirements and restrictions specified by this document, You can keep Your license by complying within 30 days after the notice. If You do not do so, the rights granted to You by this any license a Licensor has issued under this document shall terminate immediately.  If the rights granted to You by a license under this document terminate, they shall be reinstated immediately once You comply with the requirements and restrictions specified by this document.
+If anyone notifies You in writing that You have not complied with the requirements and limitations specified by this document, You can keep Your license by complying within 30 days after the notice. If You do not do so, the rights granted to You by this all licenses issued under this document shall terminate immediately.  If the rights granted to You by a license under this document terminates, they shall be reinstated immediately once You comply with the requirements and restrictions specified by this document.
 
 **Disclaimer**
 
@@ -61,8 +61,10 @@ All objects the Licensors have or will make Publicly available are "as-is" and "
 
 **Interpretation**
 
-For the avoidance of doubt, this license does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of any object that could lawfully be used without permission under this license.
+For the avoidance of doubt, this license does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of any object that could lawfully be made without permission under this license.
 
-To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
+To the maximum extent permitted by law in each respective jurisdiction, the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
 
 This license is not severable.  If in a given jurisdiction, this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.
+
+To the maximum extent permitted by law in each respective jurisdiction, this license shall be interpreted as a bilateral contract between each pair of licensors and licensees.  As more people choose to license their rights under this document, the reciprocal nature of the document establishes significant benefits for those that comply with the license's requirements and limitations and significant detriments for those that do not comply.

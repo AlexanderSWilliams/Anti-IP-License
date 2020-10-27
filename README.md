@@ -61,9 +61,9 @@ All objects the Licensors have or will make Publicly available are "as-is" and "
 
 **Interpretation**
 
-For the avoidance of doubt, this license does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of any object that could lawfully be made without permission under this license.
+For the avoidance of doubt, this license does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of any object that could lawfully be used without permission under this license.
 
-To the maximum extent permitted by law in each respective jurisdiction, the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
+To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
 
 This license is not severable.  If in a given jurisdiction, this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.
 

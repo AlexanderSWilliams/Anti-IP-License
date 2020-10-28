@@ -23,7 +23,7 @@ Rights are "Publicly Licensed" under this document including Restricted object(s
 
 An action and an object are "Restricted" in a given jurisdiction if a Licensor has an exclusive IP to exclude people from performing the action involving the object.
 
-A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object for some purpose.  As an example, all copyrights in derivative works of original works owned by a Licensor are restricted rights unless some of those rights have been "dual-licensed".
+A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object for some purpose.  As an example, all copyrights in derivative works of original works owned by a Licensor are Restricted rights unless some of those rights have been "dual-licensed".
 
 A right is "Publicly exclusive" in a given jurisdiction if it excludes people from performing an action involving an object publicly or commercially but does not exclude anyone from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, or broadcasting.
 

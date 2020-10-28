@@ -21,7 +21,7 @@ Rights are "Publicly Licensed" under this document including Restricted object(s
 
 "IP" refers broadly to all exclusive rights that are recognized as intellectual property in their respective jurisdictions.  Depending on the jurisdiction, these rights include but are not limited to industrial property such as patents, industrial designs, trademarks, trade dress, trade secrets, service marks, layout-designs, commercial names and designations, geographical indications, anti-circumvention, and protection against unfair competition in addition to copyright, authors' rights, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
 
-An "Restricted action" in a given jurisdiction is an action involving a involving a Restricted object that people are excluded from performing due to a Licensor's exclusive IP.
+A "Restricted action" in a given jurisdiction is an action involving a involving a Restricted object that people are excluded from performing due to a Licensor's exclusive IP.
 
 A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object for some purpose.  As an example, all copyrights in derivative works of original works owned by a Licensor are Restricted rights unless some of those rights have been "dual-licensed".
 

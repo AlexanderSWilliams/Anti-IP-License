@@ -25,7 +25,7 @@ An action and an object are "Restricted" in a given jurisdiction if a Licensor h
 
 A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object for some purpose.  As an example, all copyrights in derivative works of original works owned by a Licensor are Restricted rights unless some of those rights have been "dual-licensed".
 
-A right is "Publicly exclusive" in a given jurisdiction if it excludes people from performing an action involving an object publicly or commercially but does not exclude anyone from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, or broadcasting.
+A right is "Publicly exclusive" in a given jurisdiction if it excludes people from performing an action involving an object publicly or commercially but does not exclude anyone from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, and broadcasting.
 
 An action involving an object is a "Publicly Restricted" action in a given jurisdiction if there is someone that would infringe on a Licensor's Publicly exclusive IP assuming a) that person does not have the permissions granted by this license and b) that person performed the action involving the object.
 
@@ -57,7 +57,7 @@ If anyone notifies You in writing that You have not complied with the requiremen
 
 **Disclaimer**
 
-All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all performed actions involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon.  Any arrangements, understandings, or agreements regarding the granted rights not stated herein are separate from and independent of the terms and conditions of this license.
+All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon.  Any arrangements, understandings, or agreements regarding the granted rights not stated herein are separate from and independent of the terms and conditions of this license.
 
 **Interpretation**
 

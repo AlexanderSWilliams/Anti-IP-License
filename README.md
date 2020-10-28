@@ -11,9 +11,9 @@ The community of people that choose to license their rights under this document 
 
 A "Licensor" refers to an individual or entity licensing rights under this license.
 
-A "Copyright-likeable object" in a given jurisdiction is an object in which a "Copyright-like holder" owns exclusive rights to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
+A "Copyright-liked object" in a given jurisdiction is an object in which a "Copyright-like holder" owns exclusive rights to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
 
-A "Restricted object" in a given jurisdiction is a Copyright-likeable object in which a Licensor is a Copyright-like holder.
+A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder.
 
 An object is made "Publicly available" if the object is available in such a way that members of the public can access the object from a place and at a time individually chosen by them.
 

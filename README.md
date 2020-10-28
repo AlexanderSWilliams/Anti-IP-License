@@ -57,7 +57,7 @@ If anyone notifies You in writing that You have not complied with the requiremen
 
 **Disclaimer**
 
-All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of using them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon.  Any arrangements, understandings, or agreements regarding the granted rights not stated herein are separate from and independent of the terms and conditions of this license.
+All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all performed actions involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon.  Any arrangements, understandings, or agreements regarding the granted rights not stated herein are separate from and independent of the terms and conditions of this license.
 
 **Interpretation**
 

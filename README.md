@@ -3,27 +3,31 @@
 
 **Purpose**
 
-The community of people that choose to license their rights under this document should expect that no one in the community will seek legal remedies for intellectual property infringement from them and that any such remedy will be judged in favor of the defendant(s).  To protect their cultural, literary, artistic, scientific, industrial, economic, and moral interests in their intellectual property those that license their rights under this document are expected to use voluntary arbitration, explicit contracts, insurance, 3rd party certification, ostracism, boycotting, reputation, marketing, private unions, and other voluntary measures not involving courts of law.
+The community of people that choose to license their rights under this document should expect that no one in the community will seek a judicial remedy for intellectual property infringement from them and that any such claim will be judged in favor of the defendant(s).  To protect their cultural, literary, artistic, scientific, industrial, economic, and moral interests in their intellectual property those that license their rights under this document are expected to use voluntary arbitration, explicit contracts, insurance, 3rd party certification, ostracism, boycotting, reputation, marketing, private unions, and other voluntary measures not involving courts of law.
 
 **Definitions**
 
-"You" ("Your") refers to the individual or entity exercising a right granted by this license.
+"IP" refers broadly to all exclusive rights that are recognized as intellectual property in their respective jurisdictions.  Depending on the jurisdiction, these rights include but are not limited to industrial property such as patents, industrial designs, trademarks, trade dress, trade secrets, service marks, layout-designs, commercial names and designations, geographical indications, anti-circumvention, and protection against unfair competition in addition to copyright, authors' rights, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
 
-A "Licensor" refers to an individual or entity licensing rights under this license.
+A "Licensor" refers to an individual or entity granting permissions under this license.
 
-A "Copyright-liked object" in a given jurisdiction is an object in which a "Copyright-like holder" owns exclusive rights to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
+"You" ("Your") refers to an individual or entity that performed or is performing an action that would infringe on a Licensor's IP if the permissions granted by this license were not granted.
 
-A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder.
+"Excluded IP" is all IP that would exclude You from performing an action if the permissions granted by this license were not granted.
+
+A "Copyright-liked" object in a given jurisdiction is an object in which a "Copyright-like holder" owns exclusive rights to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
+
+A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns exclusive rights to the production and distribution of reproductions of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery.
+
+A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder or a Patent-liked object in which a Licensor is a Patent-like holder.
 
 An object is made "Publicly available" if the object is available in such a way that members of the public can access the object from a place and at a time individually chosen by them.
 
-Rights are "Publicly Licensed" under this document including Restricted object(s) if a) this document (or a link to TBD), b) the names of those licensing their rights with respective contact information for them, and c) copies of the Restricted object(s) (or sufficient material to enable the reproduction of those Restricted object(s)) are made Publicly available in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have exclusive rights in the included Restricted object(s).
+Rights are "Publicly Licensed" under this document including Restricted object(s) if a) this document (or a link to TBD), b) the names of those licensing their rights with respective contact information for them, and c) copies of the Restricted object(s) (or sufficient material to enable the production or reproduction of those Restricted object(s)) are made Publicly available in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have exclusive rights in the included Restricted object(s).
 
-"IP" refers broadly to all exclusive rights that are recognized as intellectual property in their respective jurisdictions.  Depending on the jurisdiction, these rights include but are not limited to industrial property such as patents, industrial designs, trademarks, trade dress, trade secrets, service marks, layout-designs, commercial names and designations, geographical indications, anti-circumvention, and protection against unfair competition in addition to copyright, authors' rights, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
+A "Restricted action" in a given jurisdiction is an action involving a Restricted object that people are excluded from performing due to a Licensor's IP.
 
-A "Restricted action" in a given jurisdiction is an action involving a involving a Restricted object that people are excluded from performing due to a Licensor's exclusive IP.
-
-A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object for some purpose.  As an example, all copyrights in derivative works of original works owned by a Licensor are Restricted rights unless some of those rights have been "dual-licensed".
+A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object for some purpose.
 
 A right is "Publicly exclusive" in a given jurisdiction if it excludes people from performing an action involving an object publicly or commercially but does not exclude anyone from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, and broadcasting.
 
@@ -41,7 +45,7 @@ All rights granted by this license are Publicly Licensed and are provided royalt
 
 **Copyleft**
 
-Restricted rights may only be granted if they are Publicly Licensed under this document.  Restricted rights may only be assigned to a person or entity that has Publicly Licensed their rights under this document.
+You may only license Restricted rights if they are Publicly Licensed under this document.  You may only assign Restricted rights to a person or entity that has Publicly Licensed their rights under this document.
 
 **Public Requirement**
 
@@ -57,13 +61,15 @@ If anyone notifies You in writing that You have not complied with the requiremen
 
 **Disclaimer**
 
-All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon.  Any arrangements, understandings, or agreements regarding the granted rights not stated herein are separate from and independent of the terms and conditions of this license.
+All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.
 
 **Interpretation**
 
-This license does not, and shall not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed without permission under this license in each respective jurisdiction.
+Any arrangements, understandings, or agreements regarding the licensed rights, granted permissions, or the requirements and restrictions of this license not stated in this document are separate from and independent of the terms and conditions of this license.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon. 
 
-To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any granting of rights, permitting of any actions, or assignment of any ownership not expressed in this document.
+In each respective jurisdiction, this license does not, and shall not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed if the permissions granted by this license were not granted.
+
+To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any license of rights, a grant of permission for any action, forgiveness of or consent to any event that would justify a judicial (legal, equitable, or otherwise) remedy not relying on an IP infringement claim, or assignment of any ownership not expressed in this document.
 
 This license is not severable.  If in a given jurisdiction this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.
 

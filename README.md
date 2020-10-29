@@ -15,15 +15,15 @@ A "Licensor" refers to an individual or entity granting permissions under this l
 
 "Excluded IP" is all IP that would exclude You from performing an action if the permissions granted by this license were not granted.
 
-A "Copyright-liked" object in a given jurisdiction is an object in which a "Copyright-like holder" owns exclusive rights to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
+A "Copyright-liked" object in a given jurisdiction is an object in which a "Copyright-like holder" owns IP to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
 
-A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns exclusive rights to the production and distribution of copies of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery.
+A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns IP to the production and distribution of copies of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery.
 
 A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder or a Patent-liked object in which a Licensor is a Patent-like holder.
 
 An object is made "Publicly available" if the object is available in such a way that members of the public can access the object from a place and at a time individually chosen by them.
 
-Rights are "Publicly Licensed" under this document including Restricted object(s) if a) this document (or a link to TBD), b) the names of those licensing their rights with respective contact information for them, and c) copies of the Restricted object(s) (or sufficient material to enable the production or reproduction of those Restricted object(s)) are made Publicly available in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have exclusive rights in the included Restricted object(s).
+Rights are "Publicly Licensed" under this document including Restricted object(s) if a) this document (or a link to TBD), b) the names of those licensing their rights with respective contact information for them, and c) copies of the Restricted object(s) (or sufficient material to enable the production or reproduction of those Restricted object(s)) are made Publicly available in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have IP in the included Restricted object(s).
 
 A "Restricted action" in a given jurisdiction is an action involving a Restricted object that people are excluded from performing due to a Licensor's IP.
 
@@ -49,11 +49,11 @@ You may only license Restricted rights if they are Publicly Licensed under this 
 
 **Public Requirement**
 
-If You own exclusive IP to a Public Restricted object, You must either a) Publicly License Your rights under this document including a copy of the Restricted object (or sufficient material to enable the reproduction of the Restricted object) or b) assign all Your exclusive IP in that object to a person or entity that has Publicly Licensed their rights under this document.
+If You own IP to a Public Restricted object, You must either a) Publicly License Your rights under this document including a copy of the Restricted object (or sufficient material to enable the reproduction of the Restricted object) or b) assign all Your IP in that object to a person or entity that has Publicly Licensed their rights under this document.
 
 **Notice**
 
-You must ensure that everyone who gets a copy of any part of any Restricted object from You, with or without changes, receives it in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have exclusive rights in the included Restricted object(s).
+You must ensure that everyone who gets a copy of any part of any Restricted object from You, with or without changes, receives it in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have IP in the included Restricted object(s).
 
 **Excuse**
 

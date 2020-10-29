@@ -41,7 +41,7 @@ In order to receive this license, You must agree to its rules. The rules of this
 
 **Grant**
 
-All rights granted by this license are Publicly Licensed and are provided royalty-free, non-sublicensable, non-exclusive, and irrevocable for the maximum duration permitted by law in each respective jurisdiction.  In every respective jurisdiction without exceptions, limitations, or requirements except for those explicitly specified by this document, each Licensor hereby grants You the right to perform any action including any object for any purpose that a) would otherwise infringe on their existing or future IP and b) would not cause this license to be void, invalid, or unenforceable.
+All permissions granted by this license are Publicly Licensed and are provided royalty-free, non-sublicensable, non-exclusive, and irrevocable for the maximum duration permitted by law in each respective jurisdiction.  In every respective jurisdiction without exceptions, limitations, or requirements except for those explicitly specified by this document, each Licensor hereby grants You the permission to perform any action including any object for any purpose that a) would otherwise infringe on their existing or future IP and b) would not cause this license to be void, invalid, or unenforceable.
 
 **Copyleft**
 

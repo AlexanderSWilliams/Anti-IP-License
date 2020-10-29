@@ -23,7 +23,7 @@ A "Restricted object" in a given jurisdiction is a Copyright-liked object in whi
 
 An object is made "Publicly available" if the object is available in such a way that members of the public can access the object from a place and at a time individually chosen by them.
 
-Rights are "Publicly Licensed" under this document including Restricted object(s) if a) this document (or a link to TBD), b) the names of those licensing their rights with respective contact information for them, and c) copies of the Restricted object(s) (or sufficient material to enable the production or reproduction of those Restricted object(s)) are made Publicly available in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have IP in the included Restricted object(s).
+Rights are "Publicly Licensed" under this document including Restricted object(s) if a) this document (or a link to pointing to a copy of this exact document), b) the names of those licensing their rights with respective contact information for them, and c) copies of the Restricted object(s) (or sufficient material to enable the production or reproduction of those Restricted object(s)) are made Publicly available in such manner and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written notice, and that Licensors have IP in the included Restricted object(s).
 
 A "Restricted action" in a given jurisdiction is an action involving a Restricted object that people are excluded from performing due to a Licensor's IP.
 

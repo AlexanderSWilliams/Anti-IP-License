@@ -65,7 +65,7 @@ All objects the Licensors have or will make Publicly available are "as-is" and "
 
 **Interpretation**
 
-Any arrangements, understandings, or agreements regarding the licensed rights, granted permissions, or the requirements and restrictions of this license not stated in this document are separate from and independent of the terms and conditions of this license.  No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon. 
+No one shall be bound by any additional or different terms or conditions unless those are expressly agreed upon.  Any additional or different terms or conditions someone is bound to are separate from and independent from this license.
 
 In each respective jurisdiction, this license does not, and shall not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed if the permissions granted by this license were not granted.
 

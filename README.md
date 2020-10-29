@@ -57,7 +57,7 @@ You must ensure that everyone who gets a copy of any part of any Restricted obje
 
 **Excuse**
 
-If anyone notifies You in writing that You have not complied with the requirements and limitations specified by this document, You can keep Your license by complying within 30 days after the notice. If You do not do so, the rights granted to You by all licenses issued under this document shall terminate immediately.  If the rights granted to You by a license under this document terminates, they shall be reinstated immediately once You comply with the requirements and restrictions specified by this document.
+If anyone notifies You in writing that You have not complied with the requirements and limitations specified by this document, You can keep Your license by complying within 30 days after the notice. If You do not do so, the permissions granted to You by all licenses issued under this document shall terminate immediately.  If the permissions granted to You by a license under this document terminates, they shall be reinstated immediately once You comply with the requirements and restrictions specified by this document.
 
 **Disclaimer**
 

@@ -17,7 +17,7 @@ A "Licensor" refers to an individual or entity granting permissions under this l
 
 A "Copyright-liked" object in a given jurisdiction is an object in which a "Copyright-like holder" owns exclusive rights to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
 
-A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns exclusive rights to the production and distribution of reproductions of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery.
+A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns exclusive rights to the production and distribution of copies of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery.
 
 A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder or a Patent-liked object in which a Licensor is a Patent-like holder.
 

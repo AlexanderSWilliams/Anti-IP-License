@@ -33,7 +33,7 @@ A right is "Publicly exclusive" in a given jurisdiction if it excludes people fr
 
 An action involving an object is a "Publicly Restricted" action in a given jurisdiction if there is someone that would infringe on a Licensor's Publicly exclusive IP assuming a) that person does not have the permissions granted by this license and b) that person performed the action involving the object.
 
-A Restricted object is "Public Restricted" in a given jurisdiction if a Publicly Restricted action is performed including the Restricted object.  As an example, in some jurisdictions if a derivative work of an original work owned by a Licensor is publicly distributed and rights to the original work are not "dual-licensed", then the derivative work is a Public Restricted object.
+A Restricted object is "Public Restricted" in a given jurisdiction if a Publicly Restricted action is performed including the Restricted object.  As an example, in some jurisdictions if a derivative work of an original work owned by a Licensor is publicly distributed and the right to create the derivative work was xercised are under this license, then the derivative work is a Public Restricted object .
 
 **Acceptance**
 

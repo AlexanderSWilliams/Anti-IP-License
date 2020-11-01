@@ -79,7 +79,7 @@ If You take any action to enforce the terms of this license or to seek a judicia
 
 **Disclaimer**
 
-All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly licensed rights or objects made Publicly available.
+All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly Licensed rights or objects made Publicly available.
 
 **Interpretation**
 

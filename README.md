@@ -45,7 +45,7 @@ A statement of the form "If a given condition happens, then Your permissions Req
 
 **Acceptance**
 
-When the Licensor(s) Publicly License their rights under this document, they accept that You may receive this license if and only if You accept to be bound by this document (and thus this license) as a whole.  If You do not accept to be bound by this license as a whole, then this license grants you no permissions to perform any actions.  Therefore, if You perform a Restricted action involving a Restricted object, then You indicate Your acceptance of this license in every jurisdiction that recognizes the action and the object as Restricted.
+When the Licensor(s) Publicly License their rights under this document, they accept that You receive this license if and only if You accept to be bound by this document (and thus this license) as a whole.  If You do not accept to be bound by this license as a whole, then this license grants you no permissions to perform any actions.  Therefore, if You perform a Restricted action involving a Restricted object, then You indicate Your acceptance of this license in every jurisdiction that recognizes the action and the object as Restricted.
 
 Instead of defining terms for this license, this document establishes when and where Your permissions are granted or terminated.  Therefore, this license cannot be breached, and the Licensors reserve the right to seek judicial remedies for intellectual property infringement if You perform a Restricted action with a Restricted object when Your permissions are terminated.
 

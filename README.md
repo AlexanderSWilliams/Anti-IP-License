@@ -71,7 +71,7 @@ You may only assign Restricted rights to a person or entity that has Publicly Li
 
 **Public Requirement**
 
-If You own IP to a Public Restricted object, then Your Permissions Require You to either a) Publicly License Your rights including the Restricted object or b) assign all Your IP in that object to a person or entity that has Publicly Licensed their rights under this document.
+If You own IP to a Public Restricted object, then Your Permissions Require You to Publicly License Your rights including the Restricted object.
 
 **Judicial Remedy**
 

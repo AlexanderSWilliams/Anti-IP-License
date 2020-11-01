@@ -41,7 +41,7 @@ A Restricted object is "Public Restricted" in a given jurisdiction if a Publicly
 
 The "Supporting Jurisdictions" of a condition are the jurisdictions that would that recognize the condition as legally valid.  For example, the Supporting Jurisdictions of the condition "You distributed a Restricted object" are the jurisdictions that recognize the object as a Restricted object and that You performed or are performing an action that would infringe on a Licensor's IP if the permissions granted by this license were not granted.
 
-A statement of the form "If a given condition happens, then Your permissions Require event(s)" refers to a situation when a) the permissions granted to You by all licenses issued under this document shall terminate immediately in the Supporting Jurisdictions of the condition if the any of the event(s) have not occurred and b) they shall be reinstated immediately in the Supporting Jurisdictions of the condition when each of the the event(s) occur.
+A statement of the form "If a given condition happens, then Your permissions Require event(s)" refers to a situation when a) the permissions granted to You by all licenses issued under this document shall terminate immediately in the Supporting Jurisdictions of the condition if any of the event(s) have not occurred and b) they shall be reinstated immediately in the Supporting Jurisdictions of the condition when each of the the event(s) occur.
 
 **Acceptance**
 

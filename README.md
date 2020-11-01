@@ -58,6 +58,7 @@ All permissions granted by this license are provided royalty-free, non-sublicens
 If a Person receives a copy or reproduction of any Restricted object from You, then Your permissions Require that Person also receives a Sufficient notice.
 
 **Public License**
+
 If You Publicly License Your rights under this document, then Your permissions Require that the names and contact information You provide are accurate and not misleading.
 
 If You Publicly License Your rights including any Restricted objects(s), then Your permissions Require You to a) notify each Licensor of the location of Your license notice via the respective contact information they provided and b) include the names and the contact information of each Licensor with Your name and contact information in the Public License.  

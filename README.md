@@ -75,7 +75,7 @@ If You own IP to a Public Restricted object, then Your Permissions Require You t
 
 **Judicial Remedy**
 
-If You take any action to enforce the terms of this license or to seek a judicial remedy relating to this license or any objects the Licensors have made Publicly available, then Your permissions Require that You a) Publicly License Your rights including any Restricted object(s) mentioned in your claim(s) and b) accept that the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action,
+If You take any action to enforce the terms of this license or to seek a judicial remedy relating to this license or any objects the Licensors have made Publicly available, then Your permissions Require that You a) Publicly License Your rights including any Restricted object(s) mentioned in your claim(s) and b) accept that the prevailing party shall be entitled to recover all its reasonable costs and expenses incurred in connection with such action and any appeal of such action.
 
 **Disclaimer**
 

@@ -23,19 +23,19 @@ A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-
 
 A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder or a Patent-liked object in which a Licensor is a Patent-like holder.
 
-An object is made "Publicly available" if the object is available in such a way that members of the public can access the object from a place and at a time individually chosen by them.
+An object is made "Publicly Available" if the object is available in such a way that members of the public can access the object from a place and at a time individually chosen by them.
 
 A notice is "Sufficient" if it is provided in such way and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written message, and what IP the Licensors claim to own in all (if any) included Restricted object(s).
 
-Rights are "Publicly Licensed" under this document including Restricted object(s) if a) an exact copy of this document (or a link to pointing to an exact copy of this document) and b) the names of those licensing their rights with respective contact information for them are made Publicly available as a Sufficient notice.
+Rights are "Publicly Licensed" under this document including Restricted object(s) if a) an exact copy of this document (or a link to pointing to an exact copy of this document) and b) the names of those licensing their rights with respective contact information for them are made Publicly Available as a Sufficient notice.
 
 A "Restricted action" in a given jurisdiction is an action involving a Restricted object that People are excluded from performing due to a Licensor's IP.
 
 A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object.
 
-A right is "Publicly exclusive" in a given jurisdiction if it excludes People from performing an action involving an object publicly or commercially but does not exclude any Person from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, and broadcasting.
+A right is "Publicly Exclusive" in a given jurisdiction if it excludes People from performing an action involving an object publicly or commercially but does not exclude any Person from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly Exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, and broadcasting.
 
-An action involving an object is a "Publicly Restricted" action in a given jurisdiction if there is a Person that would infringe on a Licensor's Publicly exclusive IP assuming a) that Person does not have the permissions granted by this license and b) that Person performed the action involving the object.
+An action involving an object is a "Publicly Restricted" action in a given jurisdiction if there is a Person that would infringe on a Licensor's Publicly Exclusive IP assuming a) that Person does not have the permissions granted by this license and b) that Person performed the action involving the object.
 
 A Restricted object is "Public Restricted" in a given jurisdiction if a Publicly Restricted action is performed involving the Restricted object.  As an example, in some jurisdictions, if a derivative work of an original work owned by a Licensor is publicly distributed and the right to create the derivative work was exercised under this license, then the derivative work is a Public Restricted object.
 
@@ -75,11 +75,11 @@ If You own IP to a Public Restricted object, then Your permissions Require You t
 
 **Judicial Remedy**
 
-If You take any action to enforce the terms of this license or to seek a judicial remedy relating to this license or any objects the Licensors have made Publicly available, then Your permissions Require that You a) Publicly License Your rights including any Restricted object(s) mentioned in your claim(s) and b) accept that the prevailing party will be entitled to recover all its reasonable costs and expenses incurred in connection with such action and any appeal of such action.
+If You take any action to enforce the terms of this license or to seek a judicial remedy relating to this license or any objects the Licensors have made Publicly Available, then Your permissions Require that You a) Publicly License Your rights including any Restricted object(s) mentioned in your claim(s) and b) accept that the prevailing party will be entitled to recover all its reasonable costs and expenses incurred in connection with such action and any appeal of such action.
 
 **Disclaimer**
 
-All objects the Licensors have or will make Publicly available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly Licensed rights or objects made Publicly available.
+All objects the Licensors have or will make Publicly Available are "as-is" and "as-available".  You bear the risk of all actions performed involving them.  To the maximum extent permitted by law in each respective jurisdiction, the Licensors disclaim all representations, guarantees, duties, liabilities, and obligations that otherwise would or will exist in any legal theory or source of law due to any Publicly Licensed rights or objects made Publicly Available.
 
 **Interpretation**
 

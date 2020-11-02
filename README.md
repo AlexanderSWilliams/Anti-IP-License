@@ -41,7 +41,7 @@ A Restricted object is "Public Restricted" in a given jurisdiction if a Publicly
 
 The "Supporting Jurisdictions" of a condition are the jurisdictions that would recognize the condition as legally valid.  For example, the Supporting Jurisdictions of the condition "You distributed a Restricted object" are the jurisdictions that recognize the object as a Restricted object and that You performed or are performing an action that would infringe on a Licensor's IP if the permissions granted by this license were not granted.
 
-A statement of the form "If a given condition happens, then Your permissions Require event(s)" refers to a situation when a) the permissions granted to You by all licenses issued under this document shall terminate immediately in the Supporting Jurisdictions of the condition if any of the event(s) have not occurred and b) they shall be reinstated immediately in the Supporting Jurisdictions of the condition when each of the the event(s) occur assuming there are no other condition(s) causing Your permissions to be terminated.
+A statement of the form "If a given condition happens, then Your permissions Require event(s)" refers to a situation when a) the permissions granted to You by all licenses issued under this document terminate immediately in the Supporting Jurisdictions of the condition if any of the event(s) have not occurred and b) they will be reinstated immediately in the Supporting Jurisdictions of the condition when each of the the event(s) occur assuming there are no other condition(s) causing Your permissions to be terminated.
 
 **Acceptance**
 
@@ -75,7 +75,7 @@ If You own IP to a Public Restricted object, then Your permissions Require You t
 
 **Judicial Remedy**
 
-If You take any action to enforce the terms of this license or to seek a judicial remedy relating to this license or any objects the Licensors have made Publicly available, then Your permissions Require that You a) Publicly License Your rights including any Restricted object(s) mentioned in your claim(s) and b) accept that the prevailing party shall be entitled to recover all its reasonable costs and expenses incurred in connection with such action and any appeal of such action.
+If You take any action to enforce the terms of this license or to seek a judicial remedy relating to this license or any objects the Licensors have made Publicly available, then Your permissions Require that You a) Publicly License Your rights including any Restricted object(s) mentioned in your claim(s) and b) accept that the prevailing party will be entitled to recover all its reasonable costs and expenses incurred in connection with such action and any appeal of such action.
 
 **Disclaimer**
 
@@ -85,8 +85,8 @@ All objects the Licensors have or will make Publicly available are "as-is" and "
 
 This document defines precisely what You and the Licensors are bound to under this license.  All other agreements are separate from and independent from this license.
 
-In each respective jurisdiction, this license does not, and shall not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed if the permissions granted by this license were not granted.
+In each respective jurisdiction, this license does not, and will not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed if the permissions granted by this license were not granted.
 
-To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and shall not be interpreted to, imply any license of rights, a grant of permission for any action, forgiveness of or consent to any event that would justify a judicial (legal, equitable, or otherwise) remedy not relying on an IP infringement claim, or assignment of any ownership not expressed in this document.
+To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and will not be interpreted to, imply any license of rights, a grant of permission for any action, forgiveness of or consent to any event that would justify a judicial (legal, equitable, or otherwise) remedy not relying on an IP infringement claim, or assignment of any ownership not expressed in this document.
 
 This license is not severable.  If in a given jurisdiction this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.

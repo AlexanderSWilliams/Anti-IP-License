@@ -3,7 +3,7 @@
 
 **Purpose**
 
-The community of people that choose to license their rights under this document should expect that no one in the community will seek a judicial remedy for intellectual property infringement from them and that any such claim will be judged in favor of the defendant(s).  To protect their cultural, literary, artistic, scientific, industrial, economic, and moral interests in their intellectual property those that license their rights under this document are expected to use voluntary arbitration, explicit contracts, insurance, 3rd party certification, ostracism, boycotting, reputation, marketing, private unions, and other voluntary measures not involving courts of law.
+The community of people that choose to license their rights under this document and comply with its requirements should expect that they can freely use any IP licensed by the community that they can accesss, that no one in the community will seek a judicial remedy for intellectual property infringement from them, and that any such claim will be judged in favor of the defendant(s).  To protect their cultural, literary, artistic, scientific, industrial, economic, and moral interests in their intellectual property those that license their rights under this document are expected to use voluntary arbitration, explicit contracts, insurance, 3rd party certification, ostracism, boycotting, reputation, marketing, private unions, and other voluntary measures not involving courts of law.
 
 **Definitions**
 

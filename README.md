@@ -27,7 +27,7 @@ An object is made "Publicly Available" if the object is available in such a way 
 
 A notice is "Sufficient" if it is provided in such way and location as to give reasonable notice of the issuance of the license under this document, who the Licensors are, how to contact the Licensors with a written message, and what IP the Licensors claim to own in all (if any) included Restricted object(s).
 
-Rights are "Publicly Licensed" under this document including Restricted object(s) if a) an exact copy of this document (or a link to pointing to an exact copy of this document) and b) the names of those licensing their rights with respective contact information for them are made Publicly Available as a Sufficient notice.
+Rights are "Publicly Licensed" ("Publicly License") under this document including Restricted object(s) if a) an exact copy of this document (or a link to pointing to an exact copy of this document) and b) the names of those licensing their rights with respective contact information for them are made Publicly Available as a Sufficient notice.
 
 A "Restricted action" in a given jurisdiction is an action involving a Restricted object that People are excluded from performing due to a Licensor's IP.
 

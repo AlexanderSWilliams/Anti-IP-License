@@ -19,7 +19,7 @@ A "Licensor" refers to a Person granting permissions under this license.
 
 A "Copyright-liked" object in a given jurisdiction is an object in which a "Copyright-like holder" owns IP to the reproduction and distribution of the object potentially subject to exceptions, limitations, and requirements.
 
-A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns IP to the production and distribution of copies of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery.
+A "Patent-liked" object in a given jurisdiction is an object in which a "Patent-like holder" owns IP to the production and distribution of copies of the object potentially subject to exceptions, limitations, and requirements.  In some jurisdictions, an object might be Patent-liked and not Copyright-liked due to considerations of independent discovery and doctrines such as the idea–expression distinction.
 
 A "Restricted object" in a given jurisdiction is a Copyright-liked object in which a Licensor is a Copyright-like holder or a Patent-liked object in which a Licensor is a Patent-like holder.
 
@@ -59,7 +59,7 @@ If a Person receives a copy or reproduction of any Restricted object from You, t
 
 **Public License**
 
-If You Publicly License Your rights under this document, then Your permissions Require that the names and contact information You provide are accurate and not misleading.
+To the maximum extent permitted by law in each respective jurisdiction, the licenses granted under this document will in aggregate be interpreted as a multilateral contract among the People that Publicly License their rights under this document.  If You Publicly License Your rights under this document, then Your permissions Require that a) the names and contact information You provide are accurate and not misleading and b) that You agree to irrevocably enter into the multilateral contract defined by this document.
 
 If You Publicly License Your rights including any Restricted objects(s), then Your permissions Require You to a) notify each Licensor of the location of Your license notice via the respective contact information they provided and b) include the names and the contact information of each Licensor with Your name and contact information in the Public License.  
 

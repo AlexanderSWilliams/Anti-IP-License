@@ -63,7 +63,7 @@ To the maximum extent permitted by law in each respective jurisdiction, the lice
 
 If You Publicly License Your rights including any Restricted objects(s), then Your permissions Require You to a) notify each Licensor of the location of Your license notice via the respective contact information they provided and b) include the names and the contact information of each Licensor with Your name and contact information in the Public License.  
 
-**Copyleft**
+**Reciprocity**
 
 You may only license Restricted rights by Publicly Licensing Your rights under this document.  If you offer to license Restricted rights in any other way, then Your permissions Require You ensure that no one can reasonably believe a) they were or will be offered that license and b) that license is not void.
 

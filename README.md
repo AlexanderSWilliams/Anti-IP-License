@@ -55,7 +55,7 @@ All permissions granted by this license are provided royalty-free, non-sublicens
 
 **Distribution**
 
-If a Person receives a copy or reproduction of any Restricted object from You, then Your permissions Require that Person also receives a Sufficient notice.
+If You distribute a Restricted object to another Person, then Your permissions Require that Person also receives a Sufficient notice.
 
 **Public License**
 

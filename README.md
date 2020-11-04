@@ -7,7 +7,7 @@ The community of people that choose to license their rights under this document 
 
 **Definitions**
 
-"IP" refers to all exclusive rights that are recognized as intellectual property in their respective jurisdictions.  Depending on the jurisdiction, these rights include but are not limited to industrial property such as patents, industrial designs, trademarks, trade dress, trade secrets, service marks, layout-designs, commercial names and designations, geographical indications, anti-circumvention, and protection against unfair competition in addition to copyright, authors' rights, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
+"IP" in a given jurisdiction refers to all exclusive rights that are recognized as intellectual property in that jurisdiction.  Depending on the jurisdiction, these rights include but are not limited to industrial property such as patents, industrial designs, trademarks, trade dress, trade secrets, service marks, layout-designs, commercial names and designations, geographical indications, anti-circumvention, and protection against unfair competition in addition to copyright, authors' rights, moral rights, related rights, database rights, data rights, publicity rights, privacy rights, all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, and all rights with similar intent that exist now or in the future.
 
 A "Person" ("People") refers to an individual or entity.
 

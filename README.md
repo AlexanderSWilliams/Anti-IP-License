@@ -33,11 +33,11 @@ A "Restricted action" in a given jurisdiction is an action involving a Restricte
 
 A "Restricted right" in a given jurisdiction is any IP belonging to a Licensor to perform a Restricted action involving a Restricted object.
 
-A right is "Publicly Exclusive" in a given jurisdiction if it excludes People from performing an action involving an object publicly or commercially but does not exclude any Person from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly Exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, and broadcasting.
+A right is "Publicly/Commercially Exclusive" in a given jurisdiction if it excludes People from performing an action involving an object publicly or commercially but does not exclude any Person from performing the action involving the object privately and noncommercially.  Depending on the jurisdiction, the excluded actions of Publicly/Commercially Exclusive rights might include (but are not be limited to) renting, offering to rent, selling, offering to sell, distributing, communicating, performing, displaying, and broadcasting.
 
-An action involving an object is a "Publicly Restricted" action in a given jurisdiction if there is a Person that would infringe on a Licensor's Publicly Exclusive IP assuming a) that Person does not have the permissions granted by this license and b) that Person performed the action involving the object.
+An action involving an object is a "Publicly/Commercially Restricted" action in a given jurisdiction if there is a Person that would infringe on a Licensor's Publicly/Commercially Exclusive IP assuming a) that Person does not have the permissions granted by this license and b) that Person performed the action involving the object.
 
-A Restricted object is "Public Restricted" in a given jurisdiction if a Publicly Restricted action is performed involving the Restricted object.  As an example, in some jurisdictions, if a derivative work of an original work owned by a Licensor is publicly distributed and the right to create the derivative work was exercised under this license, then the derivative work is a Public Restricted object.
+A Restricted object is "Public/Commercial Restricted" in a given jurisdiction if a Publicly/Commercially Restricted action is performed involving the Restricted object.  As an example, in some jurisdictions, if a derivative work of an original work owned by a Licensor is publicly distributed and the right to create the derivative work was exercised under this license, then the derivative work is a Public/Commercial Restricted object.
 
 The "Supporting Jurisdictions" of a condition are the jurisdictions that would recognize the condition as legally valid.  For example, the Supporting Jurisdictions of the condition "You distributed a Restricted object" are the jurisdictions that recognize the object as a Restricted object and that You performed or are performing an action that would infringe on a Licensor's IP if the permissions granted by this license were not granted.
 
@@ -71,7 +71,7 @@ You may only assign Restricted rights to a person or entity that has Publicly Li
 
 **Public Requirement**
 
-If You own IP to a Public Restricted object, then Your permissions Require You to Publicly License Your rights including the Restricted object.
+If You own IP to a Public/Commercial Restricted object, then Your permissions Require You to Publicly License Your rights including the Restricted object.
 
 **Judicial Remedy**
 
@@ -87,6 +87,6 @@ This document defines precisely what You and the Licensors are bound to under th
 
 In each respective jurisdiction, this license does not, and will not be interpreted to, limit any action that could lawfully be performed or require any action that could lawfully not be performed if the permissions granted by this license were not granted.
 
-To the maximum extent permitted by law in each respective jurisdiction, this license and the Public availability of any object does not, and will not be interpreted to, imply any license of rights, a grant of permission for any action, forgiveness of or consent to any event that would justify a judicial (legal, equitable, or otherwise) remedy not relying on an IP infringement claim, or assignment of any ownership not expressed in this document.
+To the maximum extent permitted by law in each respective jurisdiction, this license and the Public Availability of any object does not, and will not be interpreted to, imply any license of rights, a grant of permission for any action, forgiveness of or consent to any event that would justify a judicial (legal, equitable, or otherwise) remedy not relying on an IP infringement claim, or assignment of any ownership not expressed in this document.
 
 This license is not severable.  If in a given jurisdiction this license is found to be void, invalid, or unenforceable, then a new document will be drafted that Licensors can choose to adopt.

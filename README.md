@@ -41,12 +41,6 @@ All permissions granted by this license are provided royalty-free, non-exclusive
 
 **Reciprocity**
 
-If the action "You offer to license a particular right" is a Restricted Action in a given jurisdiction, then You may only offer to license that right in that jurisdiction by Publicly Licensing Your IP under this document.  If You offer to license that right in any other way, then Your permissions Require You ensure that no one can reasonably believe that license is not void.
-
-You may only offer to assign a right to a) People in a jurisdiction that does not recognize the action "You offer to assign the right" as a Restricted Action or b) to a Person has Publicly Licensed their IP under this document.  If You offer to assign that right to any other Person, then Your permissions Require You ensure that Person cannot reasonably believe they were or will be assigned the right.
-
-**Requirement to Publicly License IP**
-
 If You perform a Publicly Restricted Action, a Commercially Restricted Action, or a Judicial Action, then Your rights Require that You a) Publicly License Your IP under this document and b) notify the Licensors with a copy of or link to a Public Notice you issued via the contact information they provided in a Public Notice.
 
 **Multilateral Contract**
